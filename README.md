@@ -5,6 +5,26 @@ It allows you to download, install, update, and remove packages with a single cl
 
 ---
 
+## 📌 Use Cases
+
+### **1. Installing scripts across multiple workstations**
+If you work in a studio or office with several computers, the Package Manager saves hours of manual setup.  
+Simply run the manager on each machine, select the needed scripts, and everything installs automatically in seconds — fully silent and error-free.
+
+### **2. Keeping all machines synchronized**
+When scripts receive updates, you can instantly apply them across the whole team.  
+Every workstation stays up to date with the same versions, ensuring consistent workflow and fewer compatibility issues.
+
+### **3. Fast setup after system reinstall or new hardware**
+After reinstalling Windows or setting up a new PC, you can restore your entire 3DGROUND toolset with one click.  
+No more searching for installers or repeating the same steps manually.
+
+### **4. Safe testing environment**
+You can install, test, and remove any script without affecting others — perfect for evaluating new tools or troubleshooting scenes.
+
+### **5. Clean and controlled uninstall**
+If a workstation no longer needs certain scripts, the manager removes them cleanly with a single command, keeping your 3ds Max environment tidy.
+
 ## 🚀 Features
 
 ### 🔧 Install & Uninstall Scripts
@@ -55,7 +75,7 @@ Shows every step:
 ---
 
 ## 🖼 Interface
-![Interface](https://github.com/user-attachments/assets/bc9bbee7-be1e-49d9-8c93-1bdfa0704d95)
+
 
 
 ---
