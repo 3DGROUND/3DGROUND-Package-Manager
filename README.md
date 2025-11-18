@@ -25,6 +25,8 @@ You can install, test, and remove any script without affecting others — perfec
 ### **5. Clean and controlled uninstall**
 If a workstation no longer needs certain scripts, the manager removes them cleanly with a single command, keeping your 3ds Max environment tidy.
 
+---
+
 ## 🚀 Features
 
 ### 🔧 Install & Uninstall Scripts
